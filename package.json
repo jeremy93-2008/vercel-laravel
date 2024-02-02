@@ -1,5 +1,5 @@
 {
-  "name": "vercel-laravel-fork",
+  "name": "vercel-laravel",
   "description": "Vercel PHP runtime (optimized for Laravel)",
   "version": "0.6.2",
   "license": "MIT",
