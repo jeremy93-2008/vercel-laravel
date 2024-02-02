@@ -2,8 +2,9 @@
 > This project is a fork of the vercel-community/php in this repo the only thing that we are adding is the possibilty to choose a docroot
 > when the `built-in php server` start to serve our application, this configuration is very useful as in some framework as `Laravel`
 > you need to have control of this option to have the routing provider working as expected.
->
-> The idea is to do a pull request afterward
+
+> [!WARNING]
+> This npm package (vercel-laravel) is specifically configured to work correctly with Laravel and more precisely 10.x, other php frameworks was not tested.
 
 <h1 align=center>PHP Runtime for <a href="https://vercel.com">Vercel</h1>
 
