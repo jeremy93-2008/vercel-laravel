@@ -1,6 +1,6 @@
 # Changelog
 
-### [0.6.1] - 2024-02-02
+### [0.6.2] - 2024-02-02
 
 - Add VERCEL_LARAVEL_DOCROOT, to specify docroot to php built-in server
   
